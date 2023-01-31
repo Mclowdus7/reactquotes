@@ -1,0 +1,16 @@
+.quote-container {
+    background-color: plum;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+}
+
+.quote-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    height: 300px;
+    background-color: aqua;
+}
